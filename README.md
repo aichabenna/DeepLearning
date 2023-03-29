@@ -1,6 +1,6 @@
 # DeepLearning
 Projet : Apprentissage profond - Détection du type de panneau
-
+ll
 4 classes: (325-350 images par classe)
 - Yvan  | Classe 1 : Voie réservée aux véhicules des services réguliers de transport en commun
 - Maëlis | Classe 2 : Voie réservée aux piétons
